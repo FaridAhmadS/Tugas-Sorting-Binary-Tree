@@ -106,6 +106,5 @@ README.md
 
 ---
 
-# Repository GitHub
-Silakan upload file berikut ke repository GitHub pribadi.
+
 
